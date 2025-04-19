@@ -1,0 +1,2 @@
+base F
+rule F <tFF>+[<t+F-F-gF>]-[<t-F+F+gF>]

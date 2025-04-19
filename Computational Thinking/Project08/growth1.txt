@@ -1,0 +1,2 @@
+base F
+rule F rF[+F+F]F[-F-F]F

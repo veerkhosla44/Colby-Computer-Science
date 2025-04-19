@@ -1,0 +1,2 @@
+base F
+rule F <tF[+FF]gF>[<r-F[-F][+F]]FF>
