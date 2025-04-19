@@ -1,0 +1,2 @@
+base A-B-C-D
+rule F F-FF--F-F
