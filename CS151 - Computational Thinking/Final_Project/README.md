@@ -1,6 +1,9 @@
 Final Project: Interactive Environmental Art
+
 Author: Veer Khosla
+
 Course: CS151 – Spring 2023
+
 Date: May 3–5, 2023
 
 Overview:
