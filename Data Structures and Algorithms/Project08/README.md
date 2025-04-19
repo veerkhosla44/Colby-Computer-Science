@@ -1,4 +1,4 @@
-Maze Reachability via Graph Search
+Project 8: Maze Reachability via Graph Search
 
 Course: CSE 41321
 
