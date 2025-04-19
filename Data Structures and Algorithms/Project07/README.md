@@ -1,6 +1,9 @@
-Graph Traversal and Course Planning
+Project 7: Graph Traversal and Course Planning
+
 Course: CSE 41321
+
 Language: Java
+
 Files:
 DepthFirstSearch.java, Graph.java, VertexColor.java,
 HashSet.java, ChainedHashTable.java, DuplicateKeyException.java,
