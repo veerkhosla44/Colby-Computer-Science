@@ -7,7 +7,7 @@ Language: Python
 Files: data.py, analysis.py, test_data.py
 
 Description:
-This project focuses on creating a Data class capable of reading and organizing data from CSV files. The class should handle both numeric and categorical variables. Additionally, basic statistical analysis functions are implemented to compute data ranges, means, and standard deviations.​
+- This project focuses on creating a Data class capable of reading and organizing data from CSV files. The class should handle both numeric and categorical variables. Additionally, basic statistical analysis functions are implemented to compute data ranges, means, and standard deviations.​
 Colby College Computer Science
 
 Topics Covered:
@@ -18,5 +18,4 @@ Topics Covered:
 5. Testing and validation of data processing​
 
 How to Run:
-
-python test_data.py
+- python test_data.py
