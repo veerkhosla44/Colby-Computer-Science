@@ -11,14 +11,23 @@ OS: x64 Windows 10
 Directory Layout:
 
 C:.
+
 │   BankExample.c
+
 │   README.txt
+
 │   task1.c
+
 │   task2.c
+
 │   task3.c
+
 │   task4.c
+
 │
+
 └───.vscode
+
         settings.jsonDevice name
 
 
@@ -28,9 +37,13 @@ Task 1:
 The goal of this program was to see how different data types are stored in memory
   
  Compile:
+ 
 	gcc -o task1 task1.c
+ 
  Run:
+ 
 	./task1
+ 
  Output:
 	char: 41 
 	short: 34 12 
