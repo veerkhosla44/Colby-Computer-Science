@@ -1,6 +1,9 @@
-Insertion Time Analysis with Arrays
+Project 1: Insertion Time Analysis with Arrays
+
 Course: CSE 41321
+
 Language: Java
+
 Files: Homework1.java
 
 Description:
