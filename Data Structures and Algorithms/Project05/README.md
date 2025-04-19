@@ -1,6 +1,9 @@
-Dynamic Hash Table with Chaining and Resizing
+Project 5: Dynamic Hash Table with Chaining and Resizing
+
 Course: CSE 41321
+
 Language: Java
+
 Files:
 Homework5.java, ChainedHashTable.java, DuplicateKeyException.java,
 KeyValuePair.java, SinglyLinkedList.java
