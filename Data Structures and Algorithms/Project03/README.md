@@ -1,6 +1,9 @@
-Sorting Cars with Custom Comparators and QuickSort
+Project 3: Sorting Cars with Custom Comparators and QuickSort
+
 Course: CSE 41321
+
 Language: Java
+
 Files: Homework3.java, QuickSort.java
 
 Description:
