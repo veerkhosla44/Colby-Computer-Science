@@ -7,7 +7,7 @@ Language: Python
 Files: kmeans.py, image_segmentation.ipynb
 
 Description:
-This project involves implementing the K-Means clustering algorithm and applying it to both numerical data and image data for segmentation purposes. Students explore the effects of different initializations and the impact on clustering results.
+- This project involves implementing the K-Means clustering algorithm and applying it to both numerical data and image data for segmentation purposes.  Exploration of the effects of different initializations and the impact on clustering results.
 
 Topics Covered:
 1. Implementation of the K-Means clustering algorithm
@@ -16,5 +16,4 @@ Topics Covered:
 4. Analysis of clustering performance and initialization methods
 
 How to Run:
-
-Open the Jupyter notebook and execute the cells in order.
+- Open the Jupyter notebook and execute the cells in order.
