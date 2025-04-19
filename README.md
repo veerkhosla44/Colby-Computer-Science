@@ -4,7 +4,7 @@ Welcome to my collection of computer science projects from my courses at Colby C
 
 ### Courses
 
-### CS151 - Computational Thinking
+## CS151 - Computational Thinking
 
 This course focuses on the fundamentals of programming and problem-solving. It introduces computational thinking concepts, algorithmic thinking, and the basics of coding. Projects range from simple algorithms to more complex applications, focusing on clarity, efficiency, and correctness.
 
