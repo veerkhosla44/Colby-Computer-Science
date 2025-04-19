@@ -2,9 +2,9 @@
 
 Welcome to my collection of computer science projects from my courses at Colby College. This repository showcases my work across a range of courses, highlighting skills in programming, algorithms, machine learning, systems, and more. Colby's computer science curriculum is extremely project-heavy, emphasizing hands-on experience and the practical application of theory. Each course is organized into its own directory with relevant projects, assignments, and reports.
 
-### Courses
+# Courses
 
-## CS151 - Computational Thinking
+### CS151 - Computational Thinking
 
 This course focuses on the fundamentals of programming and problem-solving. It introduces computational thinking concepts, algorithmic thinking, and the basics of coding. Projects range from simple algorithms to more complex applications, focusing on clarity, efficiency, and correctness.
 
@@ -65,7 +65,7 @@ This course focuses on machine learning, with an emphasis on neural networks and
 
 
 
-#### Repository Structure
+# Repository Structure
 
 The repository is organized by course, with each course folder containing:
 - Source code  
