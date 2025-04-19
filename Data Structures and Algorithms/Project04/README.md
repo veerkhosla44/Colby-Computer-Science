@@ -1,6 +1,9 @@
-Large Integer Addition with Stacks
+Project 4: Large Integer Addition with Stacks
+
 Course: CSE 41321
+
 Language: Java
+
 Files: Homework4.java, Stack.java, SinglyLinkedList.java
 
 Description:
