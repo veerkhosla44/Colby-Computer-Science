@@ -1,6 +1,9 @@
 Maze Reachability via Graph Search
+
 Course: CSE 41321
+
 Language: Java
+
 Files:
 Homework8.java, Graph.java, VertexColor.java, ChainedHashTable.java,
 KeyValuePair.java, HashSet.java, SinglyLinkedList.java,
