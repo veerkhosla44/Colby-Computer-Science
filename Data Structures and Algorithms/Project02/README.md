@@ -1,6 +1,9 @@
-Polynomials with a Custom Linked List
+Project 2: Polynomials with a Custom Linked List
+
 Course: CSE 41321
+
 Language: Java
+
 Files: Homework2.java, SinglyLinkedList.java
 
 Description:
