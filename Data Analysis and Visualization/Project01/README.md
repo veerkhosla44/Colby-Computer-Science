@@ -1,6 +1,9 @@
 Project 1 – Data Class and Basic Statistics
+
 Course: CS 251: Data Analysis and Visualization
+
 Language: Python
+
 Files: data.py, analysis.py, test_data.py
 
 Description:
