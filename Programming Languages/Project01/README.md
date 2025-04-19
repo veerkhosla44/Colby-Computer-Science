@@ -1,10 +1,15 @@
 CS333 - Project 1 - README
+
 Veer Khosla
+
 02/22/2024
 
 Google Sites Website: https://sites.google.com/colby.edu/veers-cs333/home 
+
 OS: x64 Windows 10
+
 Directory Layout:
+
 C:.
 │   BankExample.c
 │   README.txt
