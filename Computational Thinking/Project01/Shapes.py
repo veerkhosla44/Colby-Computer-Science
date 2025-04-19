@@ -1,0 +1,241 @@
+'''Veer Khosla
+CS151 A
+Project 01
+2/8/2023
+Shapes.py'''
+
+def shapeA(size):
+    right(144)
+    forward(size)
+    right(144)
+    forward(size) 
+    right(144)
+    forward(size)
+    right(144)
+    forward(size) 
+    right(144)
+    forward(size)
+
+def shapeB(size):
+    penup()
+    forward(size)
+    pendown()
+    right(120)
+    forward(size)
+    right(120)
+    forward(size)
+    right(60)
+    forward(size)
+    right(120)
+    forward(size)
+
+def shapeC():
+    shapeA(200)
+    shapeB(100)
+    right(120)
+    penup()
+    forward(400)
+    pendown()
+    right(180)
+    shapeB(100)
+    left(120)
+    shapeB(100)
+    penup()
+    forward(100)
+    pendown()
+    right(60)
+    shapeB(100)
+    penup()
+    right(60)
+    forward(100)
+    right(120)
+    forward(100)
+    pendown()
+    shapeB(100)
+
+    right(180)
+    forward(100)
+    left(60)
+    forward(100)
+    right(120)
+    shapeB(100)
+
+def shapeD():
+    left(90)
+    penup()
+    forward(200)
+    pendown()
+    shapeA(50)
+    left(90)
+    penup()
+    forward(200)
+    pendown()
+    shapeA(100)
+    penup()
+    forward(50)
+    pendown()
+    shapeA(30)
+    penup()
+    forward(70)
+    right(90)
+    forward(100)
+    pendown()
+    shapeA(50)
+    penup()
+    right(90)
+    forward(233)
+    pendown()
+    shapeA(65)
+    penup()
+    forward(60)
+    right(90)
+    forward(50)
+    pendown()
+    shapeA(40)
+    penup()
+    left(90)
+    forward(200)
+    pendown()
+    shapeA(100)
+    penup()
+    forward(100)
+    left(90)
+    forward(30)
+    pendown()
+    shapeA(65)
+    left(90)
+    penup()
+    forward(100)
+    pendown()
+    shapeA(60)
+
+from turtle import *
+speed(100)
+
+# TASK 5
+# shapeA(50)
+# shapeB(50)
+# shapeC()
+
+# TASK 6
+shapeD()
+
+# EXTENSION BELOW:
+def Extension():
+
+    bgcolor('black')
+    pencolor('yellow')
+    shapeD()
+    penup()
+    left(180)
+    forward(220)
+    left(90)
+    forward(35)
+    pendown()
+
+    pencolor('white')
+    begin_fill()
+    fillcolor('white')
+    circle(50)
+    end_fill()
+
+    right(180)
+    penup()
+    forward(500)
+    pendown()
+    begin_fill()
+    fillcolor('green')
+    pencolor('green')
+    right(90)
+    forward(900)
+    left(90)
+    forward(400)
+    left(90)
+    forward(1000)
+    left(90)
+    forward(400)
+    left(90)
+    forward(200)
+    end_fill()
+
+    def door(size, color):
+        pencolor(color)
+        begin_fill()
+        fillcolor(color)
+        forward(size*2)
+        right(90)
+        forward(size)
+        right(90)
+        forward(size*2)
+        right(90)
+        forward(size)
+        end_fill()
+
+    def house():
+        pencolor('brown')
+        begin_fill()
+        fillcolor('brown')
+        right(90)
+        forward(150)
+        left(90)
+        forward(120)
+        left(90)
+        forward(150)
+        left(90)
+        end_fill()
+
+        forward(40)
+        left(90)
+        door(40, 'black')
+
+        penup()
+        forward(30)
+        right(90)
+        forward(20)
+        pendown()
+
+        door(20, 'white')
+
+        right(180)
+        penup()
+        forward(80)    
+        pendown()
+
+        left(90)
+        door(20, 'white')
+
+        right(90)
+        penup()
+        forward(65)
+        forward(20)
+        pendown()
+
+        door(10, 'white')
+
+        penup()
+        forward(15)
+
+        door(15, 'white')
+
+        right(90)
+
+        penup()
+        forward(55)
+
+        right(90)
+        door(10, 'white')
+    
+    house()
+
+    penup()
+    forward(400)
+    left(90)
+    forward(105)
+    pendown()
+    right(90)
+
+    house()
+
+# Extension()
+
+exitonclick()
