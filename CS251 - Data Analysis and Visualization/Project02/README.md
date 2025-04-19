@@ -7,7 +7,7 @@ Language: Python
 Files: analysis.py, transformation.py, test_transformation.py
 
 Description:
-This project extends the data analysis capabilities by implementing a Transformation class to perform geometric transformations such as translation, scaling, and rotation on datasets. The project involves applying these transformations to datasets like the Iris dataset and a 3D mystery dataset to uncover hidden patterns.
+- This project extends the data analysis capabilities by implementing a Transformation class to perform geometric transformations such as translation, scaling, and rotation on datasets. The project involves applying these transformations to datasets like the Iris dataset and a 3D mystery dataset to uncover hidden patterns.
 
 Topics Covered:
 1. Matrix operations for data transformations
@@ -16,5 +16,4 @@ Topics Covered:
 4. Visualization of transformed data
 
 How to Run:
-
-python test_transformation.py
+- python test_transformation.py
