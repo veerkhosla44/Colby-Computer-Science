@@ -7,7 +7,7 @@ Language: Python
 Files: pca.py, data_transformations.ipynb
 
 Description:
-In this project, students implement Principal Component Analysis to reduce the dimensionality of datasets. The project includes applying PCA to the Iris dataset and a dataset of celebrity face images (Eigenfaces) to identify principal components and reconstruct data.
+- In this project, students implement Principal Component Analysis to reduce the dimensionality of datasets. The project includes applying PCA to the Iris dataset and a dataset of celebrity face images (Eigenfaces) to identify principal components and reconstruct data.
 
 Topics Covered:
 1. Computation of covariance matrices
@@ -16,5 +16,4 @@ Topics Covered:
 4. Data reconstruction using principal components
 
 How to Run:
-
-Open the Jupyter notebook and execute the cells in order.
+- Open the Jupyter notebook and execute the cells in order.
