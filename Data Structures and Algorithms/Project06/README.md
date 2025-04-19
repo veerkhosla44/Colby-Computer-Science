@@ -1,6 +1,9 @@
-Heap-Based Priority Queue
+Project 6: Heap-Based Priority Queue
+
 Course: CSE 41321
+
 Language: Java
+
 Files: Homework7.java, Heap.java, PriorityQueue.java
 
 Description:
