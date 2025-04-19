@@ -1,13 +1,6 @@
 # Colby Computer Science
 
-Welcome to my collection of computer science projects from my courses at **Colby College**.  
-Colby's computer science curriculum is extremely **project-heavy**, emphasizing hands-on experience and the practical application of theory.  
-
-This repository showcases my work across a range of courses, highlighting skills in programming, algorithms, machine learning, systems, and more.
-
-Each course is organized into its own directory with relevant projects, assignments, and reports.
-
----
+Welcome to my collection of computer science projects from my courses at Colby College. This repository showcases my work across a range of courses, highlighting skills in programming, algorithms, machine learning, systems, and more. Colby's computer science curriculum is extremely project-heavy, emphasizing hands-on experience and the practical application of theory. Each course is organized into its own directory with relevant projects, assignments, and reports.
 
 ## Courses
 
@@ -23,7 +16,7 @@ Projects range from simple algorithms to more complex applications, focusing on 
 - Basic data structures  
 - Functions and recursion  
 
----
+
 
 ### CS231 - Data Structures and Algorithms
 
@@ -37,7 +30,7 @@ The projects help solidify these concepts through hands-on programming.
 - Recursion and dynamic programming  
 - Complexity analysis (Big O notation)  
 
----
+
 
 ### CS251 - Data Analysis and Visualization
 
@@ -51,7 +44,7 @@ The course emphasizes practical skills for working with real-world datasets.
 - Data visualization with tools like Matplotlib and Pandas  
 - Exploratory data analysis  
 
----
+
 
 ### CS333 - Programming Languages
 
@@ -65,7 +58,7 @@ The course also touches on how different languages handle memory management, con
 - Memory management and garbage collection  
 - Functional vs imperative programming  
 
----
+
 
 ### CS343 - Neural Networks
 
@@ -80,7 +73,7 @@ There was a strong emphasis on understanding how neural networks function intern
 - Transfer learning and model fine-tuning  
 - Real-world datasets and experimental evaluation  
 
----
+
 
 ## Repository Structure
 
