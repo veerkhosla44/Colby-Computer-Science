@@ -7,8 +7,7 @@ Course: CS151 – Spring 2023
 Date: February 9, 2023
 
 Overview:
-
-Created a sunset-over-water scene using modular functions, randomness, and Turtle graphics.
+- Created a sunset-over-water scene using modular functions, randomness, and Turtle graphics.
 
 Key Concepts:
 1. Function scaling with parameters
@@ -17,5 +16,4 @@ Key Concepts:
 4. Command-line toggle for day vs night
 
 Extension:
-
-Randomly generates either a sunset or nighttime version, with randomized star/moon placement.
+- Randomly generates either a sunset or nighttime version, with randomized star/moon placement.
