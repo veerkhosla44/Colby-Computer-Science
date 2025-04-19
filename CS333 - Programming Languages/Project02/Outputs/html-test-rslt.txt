@@ -1,0 +1,7 @@
+ 
+This is a page title 
+Here is a header 
+Here is some body text in a paragraph 
+Here is a link to cs.colby.edu inside a paragraph. <!-- Here is a multi-line 
+This is the paragraph we should ignore because it is in a comment. Bonus if you remove this! comment --> 
+This is the final paragraph. 

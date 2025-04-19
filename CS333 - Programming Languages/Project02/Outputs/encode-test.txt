@@ -1,0 +1,1 @@
+hello, this is testing my encode program! Running it twice will result in successfully reading this!
