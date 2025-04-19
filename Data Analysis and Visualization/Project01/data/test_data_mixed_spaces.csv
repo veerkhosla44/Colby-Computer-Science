@@ -1,0 +1,11 @@
+name,age,fav_color,shoe_size,height,fav_pastime,spirit_animal,fav_food
+string,numeric,categorical,numeric,numeric,categorical,categorical,categorical
+Alice,30,Purple,7.5,160,Painting with Toes,Penguin, Pizza
+Bob , 22, Yellow,9.0,175,Painting with Toes, Koala ,Broccoli
+Charlie,25,Purple,10.5,180,Painting with Toes,Penguin,Broccoli
+Daisy,28,Yellow,6.5,155, Sock Puppetry  ,Koala  ,Broccoli
+Ethan,35, Purple,8.0,170,Sock Puppetry,Frog,Spaghetti
+Fiona,29,Yellow ,7.0,165,Sock Puppetry,Frog,Pizza
+George,31 ,Purple,11.0,185,Stilt Walking,Penguin,Broccoli
+Hannah, 27 ,Yellow,6.0,158,Stilt Walking,Koala,Spaghetti
+Ivy, 23,Black,7.5,162,Stilt Walking,Frog,Pineapple

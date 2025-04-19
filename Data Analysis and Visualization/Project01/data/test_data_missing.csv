@@ -1,0 +1,5 @@
+name,age,fav_color,shoe_size,fav_sport
+string,numeric,categorical,numeric,categorical
+Alice,,,7.5,Juggling
+Bob,22,,,
+Charlie,25,Purple,10.5,
